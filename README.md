@@ -1,6 +1,6 @@
 # verbose-doodle
-Testing pull requests with issues
+:tada: Testing pull requests with issues
 
 ```rust
-println!("Hello World");
+println!("Hello, World");
 ```
